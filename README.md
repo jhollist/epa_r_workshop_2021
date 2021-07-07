@@ -1,8 +1,8 @@
 # 2021 Virtual EPA R Users Meeting
 
-|Date      |Time           Title                     |Speaker                  |
+|Date      |Time           |Title                    |Speaker                  |
 |----------|---------------|-------------------------|-------------------------|
-|2021-09-21|1:00pm - 1:10pm|Welcome and Introductions|Jeff Hollister/Anne Vega/|
+|2021-09-21|1:00pm - 1:10pm|Welcome and Introductions|Jeff Hollister/Anne Vega|
 |2021-09-21|1:15pm - 2:10pm|TBD|Jenny Bryan, RStudio|
 |2021-09-21|2:15pm - 2:30pm|TBD|TBD|
 |2021-09-21|2:35pm - 2:50pm|TBD|TBD|
